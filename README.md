@@ -10,64 +10,7 @@
 ----
 
 ## Useful
-### Maintained?
-Maintained: [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-```markdown
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-```
-
-Maintainer: ![Maintaner](https://img.shields.io/badge/maintainer-theMaintainer-blue)
-```markdown
-![Maintainer](https://img.shields.io/badge/maintainer-theMaintainer-blue)
-```
-
-Not maintained: [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
-```markdown
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
-```
-
-Worse: [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-```
-[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
-```
-
-### [Website up/down](http://isup.me/)
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-```markdown
-[![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](http://shields.io/)
-```
-
-[![Website monip.org](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://monip.org/)
-```markdown
-[![Website monip.org](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://monip.org/)
-```
-
-[![Website perso.crans.org](https://img.shields.io/website-up-down-green-red/https/perso.crans.org.svg)](https://perso.crans.org/)
-```markdown
-[![Website perso.crans.org](https://img.shields.io/website-up-down-green-red/https/perso.crans.org.svg)](https://perso.crans.org/)
-```
-
-[![Website naereen.github.io](https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg)](https://naereen.github.io/)
-```markdown
-[![Website naereen.github.io](https://img.shields.io/website-up-down-green-red/https/naereen.github.io.svg)](https://naereen.github.io/)
-```
-
-[![Website lbesson.bitbucket.io](https://img.shields.io/website-up-down-green-red/https/lbesson.bitbucket.io.svg)](https://lbesson.bitbucket.io/)
-```markdown
-[![Website lbesson.bitbucket.io](https://img.shields.io/website-up-down-green-red/https/lbesson.bitbucket.io.svg)](https://lbesson.bitbucket.io/)
-```
-
-[![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](http://cv.lbesson.qc.to/)
-```markdown
-[![Website cv.lbesson.qc.to](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](http://cv.lbesson.qc.to/)
-```
-
-[![Website fakesite.invalid](https://img.shields.io/website-up-down-green-red/http/fakesite.invalid.svg)](http://fakesite.invalid/)
-```markdown
-[![Website fakesite.invalid](https://img.shields.io/website-up-down-green-red/http/fakesite.invalid.svg)](http://fakesite.invalid/)
-```
-
-### Operating system
+### 操作系统
 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 ```markdown
@@ -93,12 +36,6 @@ Worse: [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://u
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
 ```
 
-### *"Demandez moi n'importe quoi"* in French
-[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
-```markdown
-[![Demandez moi n'importe quoi !](https://img.shields.io/badge/Demandez%20moi-n'%20importe%20quoi-1abc9c.svg)](https://GitHub.com/Naereen/ama.fr)
-```
-
 ----
 
 ## [Python](https://www.python.org/) related
@@ -116,24 +53,6 @@ Worse: [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://u
 ```markdown
 [![made-with-sphinx-doc](https://img.shields.io/badge/Made%20with-Sphinx-1f425f.svg)](https://www.sphinx-doc.org/)
 ```
-#### [Jupyter Notebook](https://jupyter.org)
-[![Made with Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-```markdown
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-```
-
-#### [Google Collab](https://colab.research.google.com/notebooks/intro.ipynb)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
-```markdown
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
-```
-
-#### [Binder](https://mybinder.org/)
-[![Binder](https://mybinder.org/badge_logo.svg)
-](https://mybinder.org/v2/gh/Naereen/badges/master)
-```markdown
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Naereen/badges/master)
-```
 ----
 
 ## [Go](https://go.dev/) related
@@ -146,24 +65,6 @@ Worse: [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://u
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](https://go.dev/)
 ```markdown
 [![made-with-Go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg)](https://go.dev/)
-```
-
-GitHub go.mod Go version (`/github/go-mod/go-version/:user/:repo`):
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens)
-```markdown
-[![GitHub go.mod Go version of a Go module](https://img.shields.io/github/go-mod/go-version/gomods/athens.svg)](https://github.com/gomods/athens)
-```
-
-GoDoc reference (`godoc.org/:user/go/:repo`):
-[![GoDoc reference example](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/nanomsg.org/go/mangos/v2)
-```markdown
-[![GoDoc reference example](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/nanomsg.org/go/mangos/v2)
-```
-
-[GoReportCard](https://goreportcard.com/) (`goreportcard.com/badge/github.com/:user/:repo`):
-[![GoReportCard example](https://goreportcard.com/badge/github.com/nanomsg/mangos)](https://goreportcard.com/report/github.com/nanomsg/mangos)
-```markdown
-[![GoReportCard example](https://goreportcard.com/badge/github.com/nanomsg/mangos)](https://goreportcard.com/report/github.com/nanomsg/mangos)
 ```
 
 ----
@@ -190,11 +91,6 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 ```
 
-[![made-with-StrapDown.js](https://img.shields.io/badge/Made%20with-StrapDown.js-1f425f.svg)](https://GitHub.com/Naereen/StrapDown.js/)
-```markdown
-[![made-with-StrapDown.js](https://img.shields.io/badge/Made%20with-StrapDown.js-1f425f.svg)](https://GitHub.com/Naereen/StrapDown.js/)
-```
-
 ----
 
 ## [LaTeX](https://www.latex-project.org/) related
@@ -211,164 +107,11 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 
 ----
 
-### [PyPI](https://pypi.python.org/) downloads
-
-[![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```markdown
-[![PyPI download month](https://img.shields.io/pypi/dm/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```
-
-[![PyPI download week](https://img.shields.io/pypi/dw/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```markdown
-[![PyPI download week](https://img.shields.io/pypi/dw/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```
-
-[![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```markdown
-[![PyPI download day](https://img.shields.io/pypi/dd/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```
-
-### [PyPI](https://pypi.python.org/) version
-[![PyPI version fury.io](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```markdown
-[![PyPI version fury.io](https://badge.fury.io/py/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```
-[![PyPi version](https://badgen.net/pypi/v/pip/)](https://pypi.com/project/pip)
-```markdown
-[![PyPi version](https://badgen.net/pypi/v/pip/)](https://pypi.com/project/pip)
-```
-
-[![PyPI version shields.io](https://img.shields.io/pypi/v/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```markdown
-[![PyPI version shields.io](https://img.shields.io/pypi/v/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```
-
-### [PyPI](https://pypi.python.org/) license
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```markdown
-[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```
-[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
-```markdown
-[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/)
-```
-
-
-### [PyPI](https://pypi.python.org/) format
-[![PyPI format](https://img.shields.io/pypi/format/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```markdown
-[![PyPI format](https://img.shields.io/pypi/format/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```
-
-### [PyPI](https://pypi.python.org/) python versions
-[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```markdown
-[![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```
-
-### [PyPI](https://pypi.python.org/) implementation
-[![PyPI implementation](https://img.shields.io/pypi/implementation/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```markdown
-[![PyPI implementation](https://img.shields.io/pypi/implementation/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```
-
-### [PyPI](https://pypi.python.org/) status
-[![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```markdown
-[![PyPI status](https://img.shields.io/pypi/status/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
-```
-
-----
-
-## [JavaScript](https://www.javascript.com) related
-
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-```markdown
-[![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
-```
-
-### [JSDelivr](https://www.jsdelivr.com/)  downloads
-
-[![JSDelivr CDN](https://data.jsdelivr.com/v1/package/gh/jquery/jquery/badge?style=rounded)](https://www.jsdelivr.com/package/gh/jquery/jquery)
-```markdown
-[![JSDelivr CDN](https://data.jsdelivr.com/v1/package/gh/<USERNAME>/<REPOSITORY>/badge?style=rounded)](https://www.jsdelivr.com/package/gh/<USERNAME>/<REPOSITORY>)
-```
-
-[![jsDelivr CDN](https://img.shields.io/jsdelivr/gh/hm/jquery/jquery)](https://www.jsdelivr.com/package/gh/jquery/jquery)
-```markdown
-[![jsDelivr CDN](https://img.shields.io/jsdelivr/gh/hm/<USERNAME>/<REPOSITORY>)](https://www.jsdelivr.com/package/gh/<USERNAME>/<REPOSITORY>)
-```
-[![jsDelivr rank](https://badgen.net/jsdelivr/rank/npm/lodash)](https://www.jsdelivr.com/)
-```markdown
-[![jsDelivr rank](https://badgen.net/jsdelivr/rank/npm/lodash)](https://www.jsdelivr.com/)
-```
-### [Npm](https://npmjs.com) version
-
-[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
-````markdown
-[![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
-````
-
-### [Npm](https://npmjs.com) downloads
-
-[![Npm package yearly downloads](https://badgen.net/npm/dy/express)](https://npmjs.com/package/express)
-```markdown
-[![Npm package yearly downloads](https://badgen.net/npm/dy/express)](https://npmjs.com/package/express)
-```
-[![Npm package monthly downloads](https://badgen.net/npm/dm/express)](https://npmjs.com/package/express)
-```markdown
-[![Npm package monthly downloads](https://badgen.net/npm/dm/express)](https://npmjs.ccom/package/express)
-```
-[![Npm package daily downloads](https://badgen.net/npm/dd/express)](https://npmjs.com/package/express)
-```markdown
-[![Npm package daily downloads](https://badgen.net/npm/dm/express)](https://npmjs.com/package/express)
-```
-[![Npm package total downloads](https://badgen.net/npm/dt/express)](https://npmjs.com/package/express)
-```markdown
-[![Npm package total downloads](https://badgen.net/npm/dt/express)](https://npmjs.com/package/express)
-```
-### Miscellaneous
-
-[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.com/package/express)
-```markdown
-[![Minimum node.js version](https://badgen.net/npm/node/express)](https://npmjs.com/package/express)
-```
-[![Npm package license](https://badgen.net/npm/license/discord.js)](https://npmjs.com/package/discord.js)
-```markdown 
-[![Npm package license](https://badgen.net/npm/llicense/discord.js)](https://npmjs.com/package/discord.js)
-```
-[![Npm package dependents](https://badgen.net/npm/dependents/express)](https://npmjs.ccom/package/express)
-```markdown
-[![Npm package dependents](https://badgen.net/npm/dependents/express)](https://npmjs.com/package/express)
-```
-
-----
-
 ## [GNU Bash](https://www.gnu.org/software/bash/) related
 
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-```markdown
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-```
-
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 ```markdown
 [![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
-```
-
-## [NuGet](https://nuget.org/) related
-
-[![NuGet stable version](https://badgen.net/nuget/v/newtonsoft.json)](https://nuget.org/packages/newtonsoft.json)
-```markdown
-[![NuGet stable version](https://badgen.net/nuget/v/newtonsoft.json)](https://nuget.org/packages/newtonsoft.json)
-```
-[![NuGet pre version](https://badgen.net/nuget/v/newtonsoft.json/pre)](https://nuget.org/packages/newtonsoft.json)
-```markdown
-[![NuGet pre version](https://badgen.net/nuget/v/newtonsoft.json/pre)](https://nuget.org/packages/newtonsoft.json)
-```
-[![NuGet latest version](https://badgen.net/nuget/v/newtonsoft.json/latest)](https://nuget.org/packages/newtonsoft.json)
-```markdown
-[![NuGet latest version](https://badgen.net/nuget/v/newtonsoft.json/latest)](https://nuget.org/packages/newtonsoft.json)
 ```
 
 ----
@@ -380,36 +123,10 @@ GoDoc reference (`godoc.org/:user/go/:repo`):
 [![Badge for version for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/version/naereen.makefiles-support-for-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode)
 ```
 
-[![Badge for installs for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/installs/naereen.makefiles-support-for-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode)
-```markdown
-[![Badge for installs for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/installs/naereen.makefiles-support-for-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode)
-```
-
-[![Badge for rating for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/rating/naereen.makefiles-support-for-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode)
-```markdown
-[![Badge for rating for Visual Studio Code extension naereen.makefiles-support-for-vscode](https://vsmarketplacebadge.apphb.com/rating/naereen.makefiles-support-for-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=naereen.makefiles-support-for-vscode)
-```
-
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ```markdown
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ```
-
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges)
-
-```markdown
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/Naereen/badges)
-```
-
-----
-
-## [Read the Docs](https://readthedocs.org/) status
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
-```markdown
-[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
-```
-
-----
 
 ## GitHub related
 ### GitHub license
@@ -615,11 +332,6 @@ From [isitmaintained.com](http://isitmaintained.com):
 [![GitHub version](https://badge.fury.io/gh/Naereen%2FStrapDown.js.svg)](https://github.com/Naereen/StrapDown.js)
 ```
 
-### GitHub hits
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
-```markdown
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/Naereen/badges)
-```
 ### GitHub Profile
 [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ```markdown
@@ -759,21 +471,6 @@ From [isitmaintained.com](http://isitmaintained.com):
 [![Package Control day downloads](https://img.shields.io/packagecontrol/dd/SwitchDictionary.svg)](https://packagecontrol.io/packages/SwitchDictionary)
 ```
 
-----
-
-## [Google Analytics](https://analytics.google.com/)
-> **Warning**: don't forget to change your Google Analytics code, from `UA-XXXXXXXX-XX` to yours!
-
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
-```markdown
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
-```
-
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
-```markdown
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md)](https://GitHub.com/Naereen/badges/)
-```
-
 ## Licenses
 ### MIT License
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
@@ -900,7 +597,6 @@ Any [shields.io](https://shields.io/) badge can use a logo image by adding the
 ```markdown
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
 ```
-[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
 ```markdown
 [![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
 ```
@@ -1171,29 +867,6 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 
 ## Custom Logo
 
-<details>
-<summary>How to Create</summary>
-
-## Step by Step
-1. Search a SVG image logo
-    * Some databases:
-        - [Simpleicons](https://simpleicons.org/)
-        - [Flaticon](https://www.flaticon.com/)
-        - [Materialdesignicons](https://materialdesignicons.com/)
-2. Optimize the SVG image using a tool:
-    * Example of tool:
-        - [SVGO Project](https://github.com/svg/svgo) ([Web App](https://jakearchibald.github.io/svgomg/))
-3. Encode the Optimized SVG to Base64 using a tool:
-    * Example of tool:
-        - [B64.io ](https://b64.io/)
-        - [Base64.Guru](https://base64.guru/converter/encode/image/svg)
-4. Place the B64 code after the code:
-    ```markdown
-    https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>?logo=data:image/svg%2bxml;base64,
-    ```
-5. Use in your README.md
-</details>
-
 ![Love](https://img.shields.io/badge/Love-pink?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViIFNwb25zb3JzIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0xNy42MjUgMS40OTljLTIuMzIgMC00LjM1NCAxLjIwMy01LjYyNSAzLjAzLTEuMjcxLTEuODI3LTMuMzA1LTMuMDMtNS42MjUtMy4wM0MzLjEyOSAxLjQ5OSAwIDQuMjUzIDAgOC4yNDljMCA0LjI3NSAzLjA2OCA3Ljg0NyA1LjgyOCAxMC4yMjdhMzMuMTQgMzMuMTQgMCAwIDAgNS42MTYgMy44NzZsLjAyOC4wMTcuMDA4LjAwMy0uMDAxLjAwM2MuMTYzLjA4NS4zNDIuMTI2LjUyMS4xMjUuMTc5LjAwMS4zNTgtLjA0MS41MjEtLjEyNWwtLjAwMS0uMDAzLjAwOC0uMDAzLjAyOC0uMDE3YTMzLjE0IDMzLjE0IDAgMCAwIDUuNjE2LTMuODc2QzIwLjkzMiAxNi4wOTYgMjQgMTIuNTI0IDI0IDguMjQ5YzAtMy45OTYtMy4xMjktNi43NS02LjM3NS02Ljc1em0tLjkxOSAxNS4yNzVhMzAuNzY2IDMwLjc2NiAwIDAgMS00LjcwMyAzLjMxNmwtLjAwNC0uMDAyLS4wMDQuMDAyYTMwLjk1NSAzMC45NTUgMCAwIDEtNC43MDMtMy4zMTZjLTIuNjc3LTIuMzA3LTUuMDQ3LTUuMjk4LTUuMDQ3LTguNTIzIDAtMi43NTQgMi4xMjEtNC41IDQuMTI1LTQuNSAyLjA2IDAgMy45MTQgMS40NzkgNC41NDQgMy42ODQuMTQzLjQ5NS41OTYuNzk3IDEuMDg2Ljc5Ni40OS4wMDEuOTQzLS4zMDIgMS4wODUtLjc5Ni42My0yLjIwNSAyLjQ4NC0zLjY4NCA0LjU0NC0zLjY4NCAyLjAwNCAwIDQuMTI1IDEuNzQ2IDQuMTI1IDQuNSAwIDMuMjI1LTIuMzcgNi4yMTYtNS4wNDggOC41MjN6Ii8+PC9zdmc+) ([Source](https://simpleicons.org/icons/githubsponsors.svg))
 ```markdown
 ![Love](https://img.shields.io/badge/Love-pink?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R2l0SHViIFNwb25zb3JzIGljb248L3RpdGxlPjxwYXRoIGQ9Ik0xNy42MjUgMS40OTljLTIuMzIgMC00LjM1NCAxLjIwMy01LjYyNSAzLjAzLTEuMjcxLTEuODI3LTMuMzA1LTMuMDMtNS42MjUtMy4wM0MzLjEyOSAxLjQ5OSAwIDQuMjUzIDAgOC4yNDljMCA0LjI3NSAzLjA2OCA3Ljg0NyA1LjgyOCAxMC4yMjdhMzMuMTQgMzMuMTQgMCAwIDAgNS42MTYgMy44NzZsLjAyOC4wMTcuMDA4LjAwMy0uMDAxLjAwM2MuMTYzLjA4NS4zNDIuMTI2LjUyMS4xMjUuMTc5LjAwMS4zNTgtLjA0MS41MjEtLjEyNWwtLjAwMS0uMDAzLjAwOC0uMDAzLjAyOC0uMDE3YTMzLjE0IDMzLjE0IDAgMCAwIDUuNjE2LTMuODc2QzIwLjkzMiAxNi4wOTYgMjQgMTIuNTI0IDI0IDguMjQ5YzAtMy45OTYtMy4xMjktNi43NS02LjM3NS02Ljc1em0tLjkxOSAxNS4yNzVhMzAuNzY2IDMwLjc2NiAwIDAgMS00LjcwMyAzLjMxNmwtLjAwNC0uMDAyLS4wMDQuMDAyYTMwLjk1NSAzMC45NTUgMCAwIDEtNC43MDMtMy4zMTZjLTIuNjc3LTIuMzA3LTUuMDQ3LTUuMjk4LTUuMDQ3LTguNTIzIDAtMi43NTQgMi4xMjEtNC41IDQuMTI1LTQuNSAyLjA2IDAgMy45MTQgMS40NzkgNC41NDQgMy42ODQuMTQzLjQ5NS41OTYuNzk3IDEuMDg2Ljc5Ni40OS4wMDEuOTQzLS4zMDIgMS4wODUtLjc5Ni42My0yLjIwNSAyLjQ4NC0zLjY4NCA0LjU0NC0zLjY4NCAyLjAwNCAwIDQuMTI1IDEuNzQ2IDQuMTI1IDQuNSAwIDMuMjI1LTIuMzcgNi4yMTYtNS4wNDggOC41MjN6Ii8+PC9zdmc+)
@@ -1305,27 +978,6 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 [![ForTheBadge winter-is-coming](http://ForTheBadge.com/images/badges/winter-is-coming.svg)](http://ForTheBadge.com)
 ```
 
-----
-
-## References ? :notebook:
-- The powerful [Shields.io](https://shields.io) API and website :rocket:
-- The nice [LicenseButtons.net](https://licensebuttons.net/) website for licence badges :scroll:
-- This repo [open-source-badges](https://github.com/ellerbrock/open-source-badges/) by [@ellerbrock](https://github.com/ellerbrock), for open-source badges :books:
-- This small repo [awesome-badges](https://github.com/bevacqua/awesome-badges) by [@bevacqua](https://github.com/bevacqua/), for awesome and meta badges :curly_loop:
-- And of course, the magical [ForTheBadge.com](http://ForTheBadge.com/) website for random badges :sparkles:
-
-## TODO :boom: ?
-- [X] Finish this list
-- [X] Update link for the *real resource* that should get linked to
-- [X] Update all my README.md to add nice badges
-
-## Issues :sweat_drops:
-- [ ] Smaller size (badge size) for some [ForTheBadge.com](http://ForTheBadge.com) badges? (with-science, winter-is-coming, made-with-python, all the creative-commons)
-
-## Possible TODO? :light_rail:
-- [ ] Download here a copy of every png/svg file, *only* for the static badges
-- [ ] Host the badges in this repo, and not on an external web service ?
-
 ## License ? :scroll: [![GitHub license](https://img.shields.io/github/license/Naereen/badges.svg)](https://github.com/Naereen/badges/blob/master/LICENSE)
 [MIT Licensed](https://lbesson.mit-license.org/) (file [LICENSE](LICENSE)).
 © [Lilian Besson](https://GitHub.com/Naereen), 2016-18.
@@ -1333,11 +985,8 @@ A nice badge to give a link to [saythanks.io/to/kennethreitz](https://saythanks.
 [![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/Naereen/badges)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/badges/graphs/commit-activity)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-[![Analytics](https://ga-beacon.appspot.com/UA-38514290-17/github.com/Naereen/badges/README.md?pixel)](https://GitHub.com/Naereen/badges/)
-[![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](https://GitHub.com/Naereen/)
 
-[![ForTheBadge uses-badges](http://ForTheBadge.com/images/badges/uses-badges.svg)](http://ForTheBadge.com)
-[![ForTheBadge uses-git](http://ForTheBadge.com/images/badges/uses-git.svg)](https://GitHub.com/)https://GitHub.com/Naereen/ama)
+
 
